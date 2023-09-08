@@ -516,12 +516,40 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__html {
+.skills__java {
+  width: 60%;
+}
+
+.skills__react {
+  width: 50%;
+}
+
+.skills__git {
+  width: 100%;
+}
+
+.skills__aem {
+  width: 70%;
+}
+
+.skills__selinium  {
   width: 90%;
 }
 
+.skills__postman {
+  width: 100%;
+}
+
+.skills__junit {
+  width: 90%;
+}
+
+.skills__rally {
+  width: 60%;
+}
+
 .skills__css {
-  width: 80%;
+  width: 50%;
 }
 
 .skills__js {
